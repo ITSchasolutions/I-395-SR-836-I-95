@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Detector": "DS-6004W-ER-EXT-WB"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19299189336088,
+          25.786159474463005
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Detector": "DS-6003E-ER-EXT-link1-EB"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.19380342805647,
+          25.785602385610076
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    }
+  ]
+}
